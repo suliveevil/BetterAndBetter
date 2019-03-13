@@ -4,7 +4,12 @@
 
 ## 简介
 
-待补充
+<details> <summary> icon </summary> <p float="left">
+BetterAndBetter Logo
+<bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/BetterAndBetter.png' />
+</p></details>
+
+内容待补充
 
 
 
