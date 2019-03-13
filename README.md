@@ -6,7 +6,7 @@
 
 <details> <summary> icon </summary> <p float="left">
 BetterAndBetter Logo
-<bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/BetterAndBetter.png' />
+<bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/BetterAndBetter.png' />
 </p></details>
 
 ### 模块与功能
