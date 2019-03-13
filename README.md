@@ -22,4 +22,4 @@
 
 ### [BetterAndbBetter 官网](http://www.better365.cn)
 
-### [BetterAndbBetter 官方论坛](:http://www.better365.club/?fromuid=18)
+### [BetterAndbBetter 官方论坛](http://www.better365.club/?fromuid=18)
