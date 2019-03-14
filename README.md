@@ -7,7 +7,7 @@
 ### 模块与功能
 
 <details>
-<summary>details</summary>
+<summary>模块</summary>
 
 | 模块 | 功能 | 竞品 |
 | --- | --- | --- |
@@ -23,7 +23,8 @@
 
 </details>
 
-
+<details>
+<summary>工具箱模块</summary>
 
 | 工具箱 | 功能 | 竞品 |
 | --- | --- |--- |
@@ -41,8 +42,17 @@
 | 避免 ⌘Q 误操作 |  |  |
 | 清洁键盘，屏幕模式 |  |  |
 
+</details>
 
 ## 版本
+
+<details>
+<summary>版本发布</summary>
+
+
+1. [官网](http://www.better365.cn)
+
+2. [GitHub - suliveevil](https://github.com/suliveevil/BetterAndBetter)
 
 |  版本  | 发布日期     |  说明                |
 | ------ | -------    | --------            |
@@ -50,11 +60,7 @@
 | 1.6.29 | 待定        | 待补充               |
 | 1.6.30 | 待定        |待补充                |
 
-### 版本发布
-
-1. [官网](http://www.better365.cn)
-
-2. [GitHub - suliveevil](https://github.com/suliveevil/BetterAndBetter)
+</details>
 
 ## 参考资料
 
