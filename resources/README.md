@@ -96,12 +96,12 @@
 ## 自动跳窗
 
 <details>
-<summary>展示</summary>
+<summary>details</summary>
 
-| 文本跳窗 | 文件跳窗 |
-| ------ | ------ |
-| <p float="center">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文本跳窗-展示.png' width="500"/>  </p> | <p float="center">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文件跳窗-展示.png' width="300"/>  </p> |
-| <p float="center">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文本跳窗.jpg' width="400"/>  </p> | <p float="center">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文件跳窗.jpg' width="400"/>  </p> |
+| | 文本跳窗 | 文件跳窗 |
+| --- | ------ | ------ |
+| 展示 | <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文本跳窗-展示.png' width="500"/>  </p> | <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文件跳窗-展示.png' width="300"/>  </p> |
+| 设置 | <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文本跳窗.jpg' width="400"/>  </p> | <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文件跳窗.jpg' width="400"/>  </p> |
 
 </details>
 
