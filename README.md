@@ -4,12 +4,10 @@
 
 ## 简介
 
-<details> <summary> icon </summary> <p float="left">
-BetterAndBetter Logo
-<bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/BetterAndBetter.png' />
-</p></details>
-
 ### 模块与功能
+
+<details>
+<summary>details</summary>
 
 | 模块 | 功能 | 竞品 |
 | --- | --- | --- |
@@ -22,6 +20,9 @@ BetterAndBetter Logo
 | 窗口管理 | 窗口管理 | |
 | 工具箱 |  |  |
 | 脚本 |  |  |
+
+</details>
+
 
 
 | 工具箱 | 功能 | 竞品 |
