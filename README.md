@@ -92,6 +92,8 @@ BetterAndBetter（以下简称 BAB）是一款系统辅助、系统增强类的 
 
 BAB bundleID：`com.sunny.BetterAndBetter`
 
+[触摸板 / 鼠标手势](https://github.com/suliveevil/BetterAndBetter/blob/master/resources/Touchpad-Gesture.md)
+
 ## 参考资料
 
 ## 相关网站
