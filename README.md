@@ -25,10 +25,16 @@ BetterAndBetter(越来越好) 是一款 macOS :computer: app。
 
 </details>
 
+
+
+
+
+
+
 <details>
 <summary>工具箱模块</summary>
 
-| 工具箱 | 功能 | 竞品 |
+| 工具 | 功能 | 竞品 |
 | --- | --- |--- |
 | 蓝牙解锁 |  | MacID |
 | 平滑滚轮 |  |  |
@@ -45,6 +51,20 @@ BetterAndBetter(越来越好) 是一款 macOS :computer: app。
 | 清洁键盘，屏幕模式 |  |  |
 
 </details>
+
+<details>
+<summary>脚本模块</summary>
+
+| 脚本名称 | 脚本说明 |
+| --- | --- |
+| [Alfred](https://github.com/suliveevil/BetterAndBetter/blob/master/AppleScript/Alfred.applescript) | 调用 Alfred |
+| [截图增强](https://github.com/suliveevil/BetterAndBetter/blob/master/AppleScript/BAB-CleanScreenCapture.applescript) | 截图增强 |
+| [fHash](https://github.com/suliveevil/BetterAndBetter/blob/master/AppleScript/fHash.applescript) | 调用 fHash.app 计算文件哈希值 |
+
+
+</details>
+
+
 
 ## 版本
 
