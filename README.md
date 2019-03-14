@@ -10,7 +10,7 @@ BetterAndBetter（以下简称 BAB）是一款系统辅助、系统增强类的 
 
 ### 使用
 
-[我的 BAB 设置](https://github.com/suliveevil/BetterAndBetter/blob/master/resources/BAB-setting.md)
+[我的 BAB 设置](https://github.com/suliveevil/BetterAndBetter/blob/master/resources/)
 
 ### 模块与功能
 
