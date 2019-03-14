@@ -1,6 +1,6 @@
 # BetterAndBetter.app
 
-BetterAndBetter(越来越好) 是一款 macOS app。
+BetterAndBetter(越来越好) 是一款 macOS :computer: app。
 
 [TOC]
 
