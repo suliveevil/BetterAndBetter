@@ -8,6 +8,10 @@ BetterAndBetter 是一款 macOS :computer: app。
 
 BetterAndBetter（以下简称 BAB）是一款系统辅助、系统增强类的 app。
 
+### 使用
+
+[我的 BAB 设置](https://github.com/suliveevil/BetterAndBetter/blob/master/resources/BAB-setting.md)
+
 ### 模块与功能
 
 <details>
@@ -26,8 +30,6 @@ BetterAndBetter（以下简称 BAB）是一款系统辅助、系统增强类的 
 | 脚本 | 使用 AppleScript 扩展 BAB 功能 |  |
 
 </details>
-
-
 
 
 
