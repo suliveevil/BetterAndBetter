@@ -76,7 +76,7 @@ BetterAndBetter（以下简称 BAB）是一款系统辅助、系统增强类的 
 <summary>版本发布</summary>
 
 
-1. [官网](http://www.better365.cn)
+1. [BAB 官网](http://www.better365.cn)
 
 2. [GitHub - suliveevil](https://github.com/suliveevil/BetterAndBetter)
 
