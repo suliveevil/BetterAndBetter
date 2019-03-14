@@ -100,7 +100,7 @@
 
 | 文本跳窗 | 文件跳窗 |
 | ------ | ------ |
-| <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文本跳窗-展示.png' width="300"/>  </p> | <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文件跳窗-展示.png' width="300"/>  </p> |
+| <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文本跳窗-展示.png' width="500"/>  </p> | <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文件跳窗-展示.png' width="300"/>  </p> |
 
 </details>
 
