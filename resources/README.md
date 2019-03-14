@@ -95,6 +95,16 @@
 
 ## 自动跳窗
 
+<details>
+<summary>展示</summary>
+
+| 文本跳窗 | 文件跳窗 |
+| ------ | ------ |
+| <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文本跳窗-展示.png' width="200"/>  </p> | <p float="left">  <bt><img src='https://github.com/suliveevil/BetterAndBetter/blob/master/resources/文件跳窗-展示.png' width="200"/>  </p> |
+
+</details>
+
+
 ## 四角触发
 
 ## 窗口管理
