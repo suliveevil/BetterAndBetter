@@ -1,10 +1,12 @@
 # BetterAndBetter.app
 
-BetterAndBetter(越来越好) 是一款 macOS :computer: app。
+BetterAndBetter 是一款 macOS :computer: app。
 
 [TOC]
 
 ## 简介
+
+BetterAndBetter（以下简称 BAB）是一款系统辅助、系统增强类的 app。
 
 ### 模块与功能
 
@@ -13,15 +15,15 @@ BetterAndBetter(越来越好) 是一款 macOS :computer: app。
 
 | 模块 | 功能 | 竞品 |
 | --- | --- | --- |
-| 触摸 | 触摸板手势 | BetterTouchTool、Jitouch |
-| 鼠标 | 鼠标手势 |  |
+| 触摸 | 用**触摸板手势**模拟按键、执行 AppleScript 等。 | BetterTouchTool、Jitouch |
+| 鼠标 | 调节鼠标速度、加速度；用**鼠标手势**模拟按键、执行 AppleScript 等。 |  |
 | 键盘 |  |  |
 | 情景模式 | | |
-| 自动跳窗 | 文件跳窗、文本跳窗 | PopClip |
+| 自动跳窗 | 文件跳窗、文本跳窗：对选中的文字、文件进行快速操作。 | PopClip |
 | 四角触发 |  |  |
-| 窗口管理 | 窗口管理 | |
-| 工具箱 |  |  |
-| 脚本 |  |  |
+| 窗口管理 | 窗口管理：窗口拖移、吸附、分屏、高亮 | |
+| 工具箱 | 多个小工具的集合。 |  |
+| 脚本 | 使用 AppleScript 扩展 BAB 功能 |  |
 
 </details>
 
@@ -36,19 +38,19 @@ BetterAndBetter(越来越好) 是一款 macOS :computer: app。
 
 | 工具 | 功能 | 竞品 |
 | --- | --- |--- |
-| 蓝牙解锁 |  | MacID |
-| 平滑滚轮 |  |  |
-| 打字音效 |  | Tickeys |
-| 自动输入法 |  |  |
-| 剪切板管理  |  |  |
-| 显示快捷键 |  | CheatSheet |
-| 菜单栏 |  | Dozer |
-| 取色模块 |  |  |
-| 数字小键盘 |  |  |
-| 长截图 |  |  |
-| 超级拖拽 |  | Drago |
+| 蓝牙解锁 | 蓝牙设备控制 macOS 解锁/锁屏/开机 | MacID |
+| 平滑滚轮 | 让鼠标滚轮更丝滑 |  |
+| 打字音效 | 模拟老式打字机音效 | Tickeys |
+| 自动输入法 | 根据程序自动切换输入法 |  |
+| 剪切板管理  | 管理剪切板历史 |  |
+| **显示快捷键** | 显示当前有效的快捷键 | CheatSheet |
+| 菜单栏 | 显示系统信息及隐藏菜单栏图标 | Dozer |
+| **取色模块** | 在光标附近显示颜色等信息 |  |
+| 数字小键盘 | 触摸板模拟数字小键盘 |  |
+| **长截图** |  |  |
+| **超级拖拽** |  | Safari 扩展：Drago |
 | 避免 ⌘Q 误操作 |  |  |
-| 清洁键盘，屏幕模式 |  |  |
+| **清洁键盘，屏幕模式** |  |  |
 
 </details>
 
