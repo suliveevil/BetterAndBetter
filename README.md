@@ -84,6 +84,10 @@ BetterAndBetter(越来越好) 是一款 macOS :computer: app。
 
 </details>
 
+## 其他
+
+BAB bundleID：`com.sunny.BetterAndBetter`
+
 ## 参考资料
 
 ## 相关网站
