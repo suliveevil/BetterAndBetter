@@ -93,7 +93,17 @@
 
 </details>
 
-## 其他
+## 自动跳窗
+
+## 四角触发
+
+## 窗口管理
+
+
 
 ## 工具箱
+
+## 脚本
+
+[我的 BAB 脚本](https://github.com/suliveevil/BetterAndBetter/tree/master/AppleScript)
 
