@@ -6,7 +6,9 @@ BetterAndBetter 是一款 macOS :computer: app。
 
 ## 简介
 
-BetterAndBetter（以下简称 BAB）是一款系统辅助、系统增强类的 app。
+**关于本 repo**：为了方便 Homebrew 用户方便使用命令行安装 BetterAndBetter（以下简称 BAB）而建。
+
+**关于 BAB**：BAB 是一款系统辅助、系统增强类的 app。
 
 ### 使用
 
