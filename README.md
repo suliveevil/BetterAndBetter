@@ -1,6 +1,8 @@
-# homebrew-BetterAndBetter
+# BetterAndBetter
 
-**关于本 repo**：为了方便 Homebrew 用户方便使用命令行安装 BetterAndBetter（以下简称 BAB）而建。
+**关于本 repo**：为方便 Homebrew 用户使用命令行安装 BetterAndBetter（以下简称 BAB）而建。请 BAB 用户踊跃 star 本 repo，超过 50 个 star 才能（notably）提交 PR 给 Homebrew-Cask。
+
+**关于本人**：BAB 用户，BAB 论坛版主。
 
 
 [TOC]
@@ -8,6 +10,8 @@
 ## 简介
 
 **关于 BAB**：BAB 是一款 macOS :computer: 系统辅助、系统增强类的 app。
+
+**关于 Homebrew**：Homebrew 是 macOS 的一款包管理器，与 MacPorts 类似。
 
 ### 使用
 
