@@ -1,5 +1,6 @@
 --通用脚本
 --软连接
+--建议作为文件跳窗插件使用
 
 tell application "System Events"
 	-- tell application id "com.apple.finder"
