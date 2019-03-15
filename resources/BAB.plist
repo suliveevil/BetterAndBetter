@@ -8180,38 +8180,6 @@
 	<array>
 		<dict>
 			<key>Height</key>
-			<real>614</real>
-			<key>OldHeight</key>
-			<real>877</real>
-			<key>OldWidth</key>
-			<real>1440</real>
-			<key>WindowID</key>
-			<string>16378</string>
-			<key>positionX</key>
-			<real>216</real>
-			<key>positionY</key>
-			<real>154.55000305175781</real>
-			<key>width</key>
-			<real>1008</real>
-		</dict>
-		<dict>
-			<key>Height</key>
-			<real>877</real>
-			<key>OldHeight</key>
-			<real>436</real>
-			<key>OldWidth</key>
-			<real>770</real>
-			<key>WindowID</key>
-			<string>8408</string>
-			<key>positionX</key>
-			<real>0.0</real>
-			<key>positionY</key>
-			<real>23</real>
-			<key>width</key>
-			<real>1440</real>
-		</dict>
-		<dict>
-			<key>Height</key>
 			<real>877</real>
 			<key>OldHeight</key>
 			<real>877</real>
@@ -8657,6 +8625,22 @@
 			<real>322</real>
 			<key>width</key>
 			<real>760</real>
+		</dict>
+		<dict>
+			<key>Height</key>
+			<real>581</real>
+			<key>OldHeight</key>
+			<real>581</real>
+			<key>OldWidth</key>
+			<real>668</real>
+			<key>WindowID</key>
+			<string>12764</string>
+			<key>positionX</key>
+			<real>0.0</real>
+			<key>positionY</key>
+			<real>23</real>
+			<key>width</key>
+			<real>668</real>
 		</dict>
 	</array>
 	<key>superDragged</key>
