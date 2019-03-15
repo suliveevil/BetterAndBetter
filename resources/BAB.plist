@@ -728,8 +728,12 @@
 	<false/>
 	<key>deleteWholeWhiteSpace</key>
 	<false/>
+	<key>diffHeightOfSeparateTwoFingers</key>
+	<real>0.59999999999999998</real>
 	<key>diffHeightOfTwoFinders</key>
 	<string></string>
+	<key>diffWidthOfSeparateTwoFingers</key>
+	<real>0.20000000000000001</real>
 	<key>diffWidthOfTwoFinders</key>
 	<string></string>
 	<key>dispalyBatteryOnMenuBar</key>
