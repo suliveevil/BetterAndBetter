@@ -987,7 +987,7 @@
 	aW5nZXJfTGVmdNMARQAJAAoChgKRAFyqAEcCiABJAooASwKMAE0ATgKPAFCAA4CtgAWA
 	roAHgK+ACYAKgLCADKoAUgBXApQClQBWAFcAWAKZApoCm4ANgBKAsYCygBGAEoATgLOA
 	tIC1gBdaYWN0aW9uVHlwZV1zaG9ydGN1dF9mbGFnWmZpbHRlclR5cGVdc2hvcnRjdXRf
-	Y29kZWdRaFxPAC+QAFH6UWhcTxIAFAAAWkZ1bGxTY3JlZW4QA18QIjJGaW5nZXJfVGlw
+	Y29kZWdRaFxPAC+QAFH6UWhcTxIAFAAAWkZ1bGxTY3JlZW4QA18QIjNGaW5nZXJfVGlw
 	U3dpcGVfTGVmdF9GaW5nZXJfUmlnaHTTAEUACQAKAqcCsgBcqgBHAqkASQKrAEsCrQBN
 	AE4CsABQgAOAt4AFgLiAB4C5gAmACoC6gAyqAFIAUwK1ArYAVgBXAFgCugK7AryADYAO
 	gLuAvIARgBKAE4C9gL6Av4AXWmFjdGlvblR5cGVdc2hvcnRjdXRfZmxhZ1pmaWx0ZXJU
@@ -8299,22 +8299,6 @@
 	<array>
 		<dict>
 			<key>Height</key>
-			<real>614</real>
-			<key>OldHeight</key>
-			<real>877</real>
-			<key>OldWidth</key>
-			<real>1440</real>
-			<key>WindowID</key>
-			<string>28466</string>
-			<key>positionX</key>
-			<real>216</real>
-			<key>positionY</key>
-			<real>154.55000305175781</real>
-			<key>width</key>
-			<real>1008</real>
-		</dict>
-		<dict>
-			<key>Height</key>
 			<real>46</real>
 			<key>OldHeight</key>
 			<real>46</real>
@@ -8717,22 +8701,6 @@
 			<key>Height</key>
 			<real>877</real>
 			<key>OldHeight</key>
-			<real>877</real>
-			<key>OldWidth</key>
-			<real>720</real>
-			<key>WindowID</key>
-			<string>13598</string>
-			<key>positionX</key>
-			<real>0.0</real>
-			<key>positionY</key>
-			<real>23</real>
-			<key>width</key>
-			<real>720</real>
-		</dict>
-		<dict>
-			<key>Height</key>
-			<real>877</real>
-			<key>OldHeight</key>
 			<real>658</real>
 			<key>OldWidth</key>
 			<real>1100</real>
@@ -8776,6 +8744,22 @@
 			<real>23</real>
 			<key>width</key>
 			<real>578</real>
+		</dict>
+		<dict>
+			<key>Height</key>
+			<real>877</real>
+			<key>OldHeight</key>
+			<real>877</real>
+			<key>OldWidth</key>
+			<real>1440</real>
+			<key>WindowID</key>
+			<string>13598</string>
+			<key>positionX</key>
+			<real>720</real>
+			<key>positionY</key>
+			<real>23</real>
+			<key>width</key>
+			<real>720</real>
 		</dict>
 	</array>
 	<key>superDragged</key>
