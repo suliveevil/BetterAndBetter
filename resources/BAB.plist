@@ -8299,54 +8299,6 @@
 	<array>
 		<dict>
 			<key>Height</key>
-			<real>877</real>
-			<key>OldHeight</key>
-			<real>755</real>
-			<key>OldWidth</key>
-			<real>820</real>
-			<key>WindowID</key>
-			<string>4214</string>
-			<key>positionX</key>
-			<real>720</real>
-			<key>positionY</key>
-			<real>23</real>
-			<key>width</key>
-			<real>720</real>
-		</dict>
-		<dict>
-			<key>Height</key>
-			<real>877</real>
-			<key>OldHeight</key>
-			<real>555</real>
-			<key>OldWidth</key>
-			<real>900</real>
-			<key>WindowID</key>
-			<string>4252</string>
-			<key>positionX</key>
-			<real>0.0</real>
-			<key>positionY</key>
-			<real>23</real>
-			<key>width</key>
-			<real>720</real>
-		</dict>
-		<dict>
-			<key>Height</key>
-			<real>877</real>
-			<key>OldHeight</key>
-			<real>877</real>
-			<key>OldWidth</key>
-			<real>720</real>
-			<key>WindowID</key>
-			<string>7412</string>
-			<key>positionX</key>
-			<real>0.0</real>
-			<key>positionY</key>
-			<real>23</real>
-			<key>width</key>
-			<real>720</real>
-		</dict>
-		<dict>
-			<key>Height</key>
 			<real>578</real>
 			<key>OldHeight</key>
 			<real>578</real>
@@ -8770,6 +8722,38 @@
 			<real>1440</real>
 			<key>WindowID</key>
 			<string>20062</string>
+			<key>positionX</key>
+			<real>0.0</real>
+			<key>positionY</key>
+			<real>23</real>
+			<key>width</key>
+			<real>1440</real>
+		</dict>
+		<dict>
+			<key>Height</key>
+			<real>877</real>
+			<key>OldHeight</key>
+			<real>877</real>
+			<key>OldWidth</key>
+			<real>1440</real>
+			<key>WindowID</key>
+			<string>20969</string>
+			<key>positionX</key>
+			<real>0.0</real>
+			<key>positionY</key>
+			<real>23</real>
+			<key>width</key>
+			<real>720</real>
+		</dict>
+		<dict>
+			<key>Height</key>
+			<real>438</real>
+			<key>OldHeight</key>
+			<real>777</real>
+			<key>OldWidth</key>
+			<real>1085</real>
+			<key>WindowID</key>
+			<string>21821</string>
 			<key>positionX</key>
 			<real>0.0</real>
 			<key>positionY</key>
