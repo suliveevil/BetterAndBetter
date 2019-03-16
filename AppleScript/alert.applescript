@@ -1,0 +1,1 @@
+display alert "Í¨ÖªÄÚÈİ"
