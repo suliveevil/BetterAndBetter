@@ -32,6 +32,10 @@
 
 [BAB-NewFileHere.applescript](https://github.com/suliveevil/AppleScript/blob/master/App-BetterAndBetter/BAB-NewFileHere.applescript)
 
+### 创建文件夹 软连接
+
+[BAB-软连接.applescript](https://github.com/suliveevil/AppleScript/blob/master/App-BetterAndBetter/BAB-软连接.applescript)
+
 
 ## 参考资料
 

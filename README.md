@@ -15,7 +15,7 @@
 
 ### 使用
 
-[我的 BAB 设置](https://github.com/suliveevil/BetterAndBetter/blob/master/resources/)
+[我的 AppleScript 脚本 及 BAB 设置](https://github.com/suliveevil/BetterAndBetter/blob/master/resources/)
 
 ### 模块与功能
 
