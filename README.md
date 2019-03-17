@@ -1,8 +1,11 @@
 # BetterAndBetter
 
+[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/betterandbetter.svg)](https://github.com/suliveevil/BetterAndBetter/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/betterandbetter.svg)](https://github.com/suliveevil/BetterAndBetter/compare)  [![commitMonth](https://img.shields.io/github/commit-activity/m/suliveevil/betterandbetter.svg)]()[![lastCommit](https://img.shields.io/github/last-commit/suliveevil/betterandbetter.svg)]() [![Downloads](https://img.shields.io/github/downloads/suliveevil/betterandbetter/total.svg)]()
+
 <!-- [![README](Badges Image URL)](link) -->
 
-**关于本 repo**：为分享 BetterAndBetter 使用经验、脚本而建。
+**关于本 repo**：为分享 BetterAndBetter 使用经验、脚本而建。[![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=betterandbetter&style=flat)](https://github.com/suliveevil/betterandbetter)
+[![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=betterandbetter&style=flat)](https://github.com/suliveevil/betterandbetter/fork)
 
 请 BetterAndBetter 用户踊跃 star 开发者的 repo [https://github.com/songhao/BetterAndBetter](https://github.com/songhao/BetterAndBetter)，超过 50 个 star 才能（notably）提交 PR 给 Homebrew-Cask。
 
@@ -114,3 +117,6 @@ BAB bundleID：`com.sunny.BetterAndBetter`
 ### [BetterAndbBetter 官网](http://www.better365.cn)
 
 ### [BetterAndbBetter 官方论坛](http://www.better365.club/?fromuid=18)
+
+[![License](https://img.shields.io/github/license/suliveevil/betterandbetter.svg)]() [![repoSize](https://img.shields.io/github/repo-size/suliveevil/betterandbetter.svg)]() [![Languages](https://img.shields.io/github/languages/count/suliveevil/BetterAndBetter.svg)]()[![Contributors](https://img.shields.io/github/contributors/suliveevil/betterandbetter.svg)]()  [![Watchers](https://img.shields.io/github/watchers/suliveevil/betterandbetter.svg?style=social)]()  [![Stars](https://img.shields.io/github/stars/suliveevil/betterandbetter.svg?style=social)](https://github.com/suliveevil/BetterAndBetter/star)  [![Followers](https://img.shields.io/github/followers/suliveevil.svg?style=social)]() [![Fork](https://img.shields.io/github/forks/suliveevil/betterandbetter.svg?style=social)]()
+
