@@ -1,5 +1,7 @@
 # BetterAndBetter
 
+<!-- [![README](Badges Image URL)](link) -->
+
 **关于本 repo**：为分享 BetterAndBetter 使用经验、脚本而建。
 
 请 BetterAndBetter 用户踊跃 star 开发者的 repo [https://github.com/songhao/BetterAndBetter](https://github.com/songhao/BetterAndBetter)，超过 50 个 star 才能（notably）提交 PR 给 Homebrew-Cask。
