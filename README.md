@@ -101,7 +101,9 @@ BAB bundleID：`com.sunny.BetterAndBetter`
 
 ## 参考资料
 
-## 相关网站
+## 相关链接
+
+### [开发者的 repo](https://github.com/songhao/BetterAndBetter)
 
 ### [BetterAndbBetter 官网](http://www.better365.cn)
 
