@@ -1,21 +1,25 @@
 # BetterAndBetter
 
-**关于本 repo**：为方便 Homebrew 用户使用命令行安装 BetterAndBetter（以下简称 BAB）而建。请 BAB 用户踊跃 star 本 repo，超过 50 个 star 才能（notably）提交 PR 给 Homebrew-Cask。
+**关于本 repo**：为分享 BetterAndBetter 使用经验、脚本而建。
 
-**关于本人**：BAB 用户，BAB 论坛版主。
+请 BetterAndBetter 用户踊跃 star 开发者的 repo [https://github.com/songhao/BetterAndBetter](https://github.com/songhao/BetterAndBetter)，超过 50 个 star 才能（notably）提交 PR 给 Homebrew-Cask。
+
+本 repo 不再发布 BetterAndBetter 版本更新，转到 [开发者 repo](https://github.com/songhao/BetterAndBetter) 发布。
+
+**关于本人**：BetterAndBetter 用户，BetterAndBetter 论坛版主。
 
 
 [TOC]
 
 ## 简介
 
-**关于 BAB**：BAB 是一款 macOS :computer: 系统辅助、系统增强类的 app。
+**关于 BetterAndBetter**：BetterAndBetter 是一款 macOS :computer: 系统辅助、系统增强类的 app。
 
 **关于 Homebrew**：Homebrew 是 macOS 的一款包管理器，与 MacPorts 类似。
 
 ### 使用
 
-[我的 AppleScript 脚本 及 BAB 设置](https://github.com/suliveevil/BetterAndBetter/blob/master/resources/)
+[我的 AppleScript 脚本 及 BetterAndBetter 设置](https://github.com/suliveevil/BetterAndBetter/blob/master/resources/)
 
 ### 模块与功能
 
