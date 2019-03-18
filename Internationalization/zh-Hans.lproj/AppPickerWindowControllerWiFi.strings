@@ -1,0 +1,24 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Select"; ObjectID = "8d0-S2-s1H"; */
+"8d0-S2-s1H.headerCell.title" = "选择";
+
+/* Class = "NSWindow"; title = "Select Wi-Fi"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "选择Wi-Fi名称";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Gxe-MI-oFk"; */
+"Gxe-MI-oFk.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Hdt-AI-EhJ"; */
+"Hdt-AI-EhJ.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PP4-5G-qoz"; */
+"PP4-5G-qoz.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "j6n-1h-Aas"; */
+"j6n-1h-Aas.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rpF-nj-W2s"; */
+"rpF-nj-W2s.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Wi-FI"; ObjectID = "w9L-u5-NdL"; */
+"w9L-u5-NdL.headerCell.title" = "Wi-FI名称";
